@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Computer Inventory">740b467e97216650d078f62de053af0e</ais_search_source>
+        <label>Computer Inventory</label>
+        <name>Computer Inventory</name>
+        <order>200</order>
+        <search_context_config display_value="Computer Inventory Workspace AI Search Configuration">effa827eb02166502825d58949868e90</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:34:49</sys_created_on>
+        <sys_id>f00b467e97216650d078f62de053af16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer Inventory</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_update_name>sys_search_filter_f00b467e97216650d078f62de053af16</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:34:49</sys_updated_on>
+    </sys_search_filter>
+</record_update>

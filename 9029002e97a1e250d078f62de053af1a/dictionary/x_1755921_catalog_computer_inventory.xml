@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d8ff48a697e1e250d078f62de053afbd" max_length="40" name="x_1755921_catalog_computer_inventory" text_index="true" type="collection">
+        <element label="Assigner" max_length="32" name="assigner" reference="sys_user" type="reference"/>
+        <element choice="3" default="available" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Assigned" sequence="1" value="assigned"/>
+                <element inactive_on_update="false" label="Disabled" sequence="2" value="disabled"/>
+                <element inactive_on_update="false" label="Available" sequence="0" value="available"/>
+            </choice>
+        </element>
+        <element display="true" label="Computer ID" mandatory="true" max_length="40" name="computer_id" type="string"/>
+        <element label="Model ID" mandatory="true" max_length="32" name="model_id" reference="x_1755921_catalog_computer_model" reference_qual="cmdb_model_categoryLIKE81feb9c137101000deeabfc8bcbe5dc4^cmdb_model_categoryNOT LIKEc4d4fe4937101000deeabfc8bcbe5d91^cmdb_model_categoryNOT LIKE84ffb854c3031000b959fd251eba8fe8^cmdb_model_categoryNOT LIKE7900c954c3031000b959fd251eba8f7e" reference_qual_condition="cmdb_model_categoryLIKE81feb9c137101000deeabfc8bcbe5dc4^cmdb_model_categoryNOT LIKEc4d4fe4937101000deeabfc8bcbe5d91^cmdb_model_categoryNOT LIKE84ffb854c3031000b959fd251eba8fe8^cmdb_model_categoryNOT LIKE7900c954c3031000b959fd251eba8f7e" type="reference"/>
+        <index name="index">
+            <element name="assigner"/>
+        </index>
+        <index name="index2">
+            <element name="model_id"/>
+        </index>
+    </element>
+</database>

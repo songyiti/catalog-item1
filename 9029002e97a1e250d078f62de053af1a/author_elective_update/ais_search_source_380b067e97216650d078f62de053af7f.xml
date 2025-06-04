@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source">
+    <ais_search_source action="DELETE">
+        <active>true</active>
+        <condition/>
+        <datasource display_value="">x_1755921_catalog_computer_application</datasource>
+        <has_dynamic_filters>false</has_dynamic_filters>
+        <name>Computer Application</name>
+        <sys_class_name>ais_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:34:48</sys_created_on>
+        <sys_id>380b067e97216650d078f62de053af7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer Application</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_update_name>ais_search_source_380b067e97216650d078f62de053af7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:34:48</sys_updated_on>
+    </ais_search_source>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</application>
+        <file_path/>
+        <instance_id>c5fef5a63b992a9016e44a8aa4e45af0</instance_id>
+        <instance_name>dev347112</instance_name>
+        <name>ais_search_source_380b067e97216650d078f62de053af7f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source"><ais_search_source action="INSERT_OR_UPDATE"><active>true</active><condition/><datasource display_value="">x_1755921_catalog_computer_application</datasource><has_dynamic_filters>false</has_dynamic_filters><name>Computer Application</name><sys_class_name>ais_search_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-20 09:34:48</sys_created_on><sys_id>380b067e97216650d078f62de053af7f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Computer Application</sys_name><sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package><sys_policy/><sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope><sys_update_name>ais_search_source_380b067e97216650d078f62de053af7f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-20 09:34:48</sys_updated_on></ais_search_source></record_update>]]></payload>
+        <payload_hash>296701121</payload_hash>
+        <record_name>Computer Application</record_name>
+        <reverted_from/>
+        <source>852accae97a1e250d078f62de053af6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:34:48</sys_created_on>
+        <sys_id>780b067e97216650d078f62de053af82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196ed0bb2600000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:34:48</sys_updated_on>
+        <type>AI Search Search Source</type>
+        <update_guid>3c0b067e6b216650de9eaf1ef0f3f581</update_guid>
+        <update_guid_history>3c0b067e6b216650de9eaf1ef0f3f581:296701121</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Computer Application">5cfdca089775e210d078f62de053af73</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-24 07:00:02</sys_created_on>
+        <sys_db_object display_value="" name="ais_search_source">ais_search_source</sys_db_object>
+        <sys_id>6d745a68d6c84706876f6c96cc939bf9</sys_id>
+        <sys_metadata>380b067e97216650d078f62de053af7f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer Application</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_scope_delete display_value="">167574d6f821482690a8c00e458e1ea4</sys_scope_delete>
+        <sys_update_name>ais_search_source_380b067e97216650d078f62de053af7f</sys_update_name>
+        <sys_update_version display_value="ais_search_source_380b067e97216650d078f62de053af7f">780b067e97216650d078f62de053af82</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-24 07:00:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

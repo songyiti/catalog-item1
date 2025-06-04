@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9a418fcf9729a650d078f62de053af0f" max_length="40" name="x_1755921_catalog_new_employee_pc_registration" type="collection">
+        <element label="Computer" max_length="32" name="computer" reference="x_1755921_catalog_computer_inventory" type="reference"/>
+        <element label="PC Approved by" max_length="32" name="pc_approved_by" reference="sys_user" type="reference"/>
+        <element display="true" label="Employee" max_length="32" name="employee" reference="sys_user" type="reference"/>
+        <element label="Manager of employss" max_length="32" name="manager_of_employss" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="computer"/>
+        </index>
+        <index name="index2">
+            <element name="employee"/>
+        </index>
+        <index name="index3">
+            <element name="manager_of_employss"/>
+        </index>
+    </element>
+</database>

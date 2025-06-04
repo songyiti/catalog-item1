@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <exclude_attachments_in_now_assist_genius_results>false</exclude_attachments_in_now_assist_genius_results>
+        <exclude_in_now_assist_genius_results>false</exclude_in_now_assist_genius_results>
+        <exclude_in_regular_search>false</exclude_in_regular_search>
+        <profile display_value="computer-inventory-workspace Search Profile">effa827e3b2166508b446cf8d6ab5997</profile>
+        <search_source display_value="Computer Inventory">740b467e97216650d078f62de053af0e</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:34:49</sys_created_on>
+        <sys_id>340b467e97216650d078f62de053af11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>computer-inventory-workspace Search Profile.Computer Inventory</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_340b467e97216650d078f62de053af11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:34:49</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

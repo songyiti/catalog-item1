@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="New employee computer information registration">50700f8f9729a650d078f62de053af0d</sc_cat_item>
+        <sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:25:45</sys_created_on>
+        <sys_id>cbc40b079769a650d078f62de053af38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.New employee computer information registration</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_update_name>sc_cat_item_category_cbc40b079769a650d078f62de053af38</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:25:45</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</application>
+        <file_path/>
+        <instance_id>c5fef5a63b992a9016e44a8aa4e45af0</instance_id>
+        <instance_name>dev347112</instance_name>
+        <name>sc_cat_item_category_cbc40b079769a650d078f62de053af38</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="New employee computer information registration">50700f8f9729a650d078f62de053af0d</sc_cat_item><sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 08:25:45</sys_created_on><sys_id>cbc40b079769a650d078f62de053af38</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Hardware.New employee computer information registration</sys_name><sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package><sys_policy/><sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope><sys_update_name>sc_cat_item_category_cbc40b079769a650d078f62de053af38</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 08:25:45</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1490612335</payload_hash>
+        <record_name>Hardware.New employee computer information registration</record_name>
+        <reverted_from/>
+        <source>852accae97a1e250d078f62de053af6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:25:45</sys_created_on>
+        <sys_id>c3c40b079769a650d078f62de053af3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f1f2d50f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:25:45</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>07c40b070d69a650ad2a40376aa12b3c</update_guid>
+        <update_guid_history>07c40b070d69a650ad2a40376aa12b3c:-1490612335</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Hardware.New employee computer information registration">564687879769a650d078f62de053afcb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:32:16</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>369f2f90db62469a87fc1c137badc764</sys_id>
+        <sys_metadata>cbc40b079769a650d078f62de053af38</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.New employee computer information registration</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_scope_delete display_value="">167574d6f821482690a8c00e458e1ea4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_cbc40b079769a650d078f62de053af38</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_cbc40b079769a650d078f62de053af38">c3c40b079769a650d078f62de053af3d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:32:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

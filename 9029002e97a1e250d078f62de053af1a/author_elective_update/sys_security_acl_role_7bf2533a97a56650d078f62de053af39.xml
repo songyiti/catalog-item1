@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 14:49:19</sys_created_on>
+        <sys_id>7bf2533a97a56650d078f62de053af39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755921_catalog_computer_application.x_1755921_catalog.ITManager</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_security_acl display_value="x_1755921_catalog_computer_application">ebf2133a97a56650d078f62de053af7a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7bf2533a97a56650d078f62de053af39</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 14:49:19</sys_updated_on>
+        <sys_user_role display_value="x_1755921_catalog.ITManager" name="x_1755921_catalog.ITManager">666217f697a56650d078f62de053af4c</sys_user_role>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</application>
+        <file_path/>
+        <instance_id>c5fef5a63b992a9016e44a8aa4e45af0</instance_id>
+        <instance_name>dev347112</instance_name>
+        <name>sys_security_acl_role_7bf2533a97a56650d078f62de053af39</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 14:49:19</sys_created_on>
+        <sys_id>7bf2533a97a56650d078f62de053af39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755921_catalog_computer_application.x_1755921_catalog.ITManager</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_security_acl display_value="x_1755921_catalog_computer_application">ebf2133a97a56650d078f62de053af7a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7bf2533a97a56650d078f62de053af39</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 14:49:19</sys_updated_on>
+        <sys_user_role display_value="x_1755921_catalog.ITManager" name="x_1755921_catalog.ITManager">666217f697a56650d078f62de053af4c</sys_user_role>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>1008464114</payload_hash>
+        <record_name>x_1755921_catalog_computer_application.x_1755921_catalog.ITManager</record_name>
+        <reverted_from/>
+        <source>ca34c58897fda210d078f62de053af11</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-24 01:38:19</sys_created_on>
+        <sys_id>f744cd8897fda210d078f62de053afe4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196fff0e4180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-24 01:38:19</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>b344cd88d5fda210401e4bff674850e4</update_guid>
+        <update_guid_history>b344cd88d5fda210401e4bff674850e4:0,f3ad5577046d6210fb16fe961ecf4e74:-1352791554,f3f2533aeda5665073a388950f47a83c:735916770</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1755921_catalog_computer_application.x_1755921_catalog.ITManager">92f905049731e210d078f62de053af76</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-24 02:03:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>030e7f1fb5bf43f6801c956b46c1ea44</sys_id>
+        <sys_metadata>7bf2533a97a56650d078f62de053af39</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755921_catalog_computer_application.x_1755921_catalog.ITManager</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_parent display_value="">ebf2133a97a56650d078f62de053af7a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_scope_delete display_value="">167574d6f821482690a8c00e458e1ea4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_7bf2533a97a56650d078f62de053af39</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_7bf2533a97a56650d078f62de053af39">f744cd8897fda210d078f62de053afe4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-24 02:03:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

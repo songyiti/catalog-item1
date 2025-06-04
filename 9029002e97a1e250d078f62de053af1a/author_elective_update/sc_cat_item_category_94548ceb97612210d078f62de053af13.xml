@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="New employee computer information registration">1659bad3972de650d078f62de053afb2</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 07:41:46</sys_created_on>
+        <sys_id>94548ceb97612210d078f62de053af13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.New employee computer information registration</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_update_name>sc_cat_item_category_94548ceb97612210d078f62de053af13</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 07:41:46</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</application>
+        <file_path/>
+        <instance_id>c5fef5a63b992a9016e44a8aa4e45af0</instance_id>
+        <instance_name>dev347112</instance_name>
+        <name>sc_cat_item_category_94548ceb97612210d078f62de053af13</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="New employee computer information registration">1659bad3972de650d078f62de053afb2</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-22 07:41:46</sys_created_on><sys_id>94548ceb97612210d078f62de053af13</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.New employee computer information registration</sys_name><sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package><sys_policy/><sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope><sys_update_name>sc_cat_item_category_94548ceb97612210d078f62de053af13</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-22 07:41:46</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1137533587</payload_hash>
+        <record_name>Can We Help You?.New employee computer information registration</record_name>
+        <reverted_from/>
+        <source>852accae97a1e250d078f62de053af6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 07:41:46</sys_created_on>
+        <sys_id>dc548ceb97612210d078f62de053af17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f6f0ec180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 07:41:46</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>10548ceb2a6122106cd27dcdf10ede17</update_guid>
+        <update_guid_history>10548ceb2a6122106cd27dcdf10ede17:-1137533587</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.New employee computer information registration">f174802f97612210d078f62de053af61</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 07:42:24</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>491a969e41e94a4ca7796e6672247641</sys_id>
+        <sys_metadata>94548ceb97612210d078f62de053af13</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.New employee computer information registration</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_scope_delete display_value="">167574d6f821482690a8c00e458e1ea4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_94548ceb97612210d078f62de053af13</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_94548ceb97612210d078f62de053af13">dc548ceb97612210d078f62de053af17</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 07:42:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

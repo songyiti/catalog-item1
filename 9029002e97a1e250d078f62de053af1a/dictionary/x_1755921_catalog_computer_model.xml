@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="04ce006697e1e250d078f62de053afb4" max_length="40" name="x_1755921_catalog_computer_model" text_index="true" type="collection">
+        <element label="Model ID" mandatory="true" max_length="40" name="model_id" type="string"/>
+        <element label="Specification" max_length="40" name="specification" type="string"/>
+        <element display="true" label="Model Name" mandatory="true" max_length="50" name="model_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <creator_source/>
+        <description>This is default AI Search profile for Computer Inventory Workspace</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>computer-inventory-workspace Search Profile</label>
+        <name>x_1755921_catalog_jgorfyqt_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <qna_model_id>bert-qa-model-1.1.6</qna_model_id>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:34:44</sys_created_on>
+        <sys_id>effa827e3b2166508b446cf8d6ab5997</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>computer-inventory-workspace Search Profile</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_update_name>ais_search_profile_effa827e3b2166508b446cf8d6ab5997</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-05-21 04:00:01</sys_updated_on>
+    </ais_search_profile>
+</record_update>

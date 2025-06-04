@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-computer-inventory-workspace-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:34:45</sys_created_on>
+        <sys_id>6ffa827e23216650f1945b437bda6c8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Computer Inventory Workspace 0</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_update_name>sys_ui_view_6ffa827e23216650f1945b437bda6c8f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:34:45</sys_updated_on>
+        <title>Workspace Computer Inventory Workspace 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
