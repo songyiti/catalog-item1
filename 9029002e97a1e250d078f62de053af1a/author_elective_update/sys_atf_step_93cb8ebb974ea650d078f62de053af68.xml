@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <callable_outputs/>
+        <copied_from/>
+        <description>Open 'New Employee Computer Application ' catalog item &amp; include this item.</description>
+        <display_name>Review Item in Order Guide (SP)</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>5</order>
+        <step_config display_value="Review Item in Order Guide (SP)">2098710873631300688e0d573cf6a7d7</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-17 08:43:47</sys_created_on>
+        <sys_id>93cb8ebb974ea650d078f62de053af68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Review Item in Order Guide (SP)</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_update_name>sys_atf_step_93cb8ebb974ea650d078f62de053af68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-17 08:43:47</sys_updated_on>
+        <table/>
+        <test display_value="Practice1 Apply PC Approved">2d6ded7397caa650d078f62de053af8d</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=93cb8ebb974ea650d078f62de053af68"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>93cb8ebb974ea650d078f62de053af68</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-17 08:43:48</sys_created_on>
+        <sys_id>22db0afb974ea650d078f62de053af6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-17 08:43:48</sys_updated_on>
+        <value>8265c46f97612210d078f62de053afc6</value>
+        <variable display_value="Catalog Item">ff05052873e31300688e0d573cf6a7ed</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>93cb8ebb974ea650d078f62de053af68</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-17 08:43:48</sys_created_on>
+        <sys_id>e2db0afb974ea650d078f62de053af6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-17 08:43:48</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Included">aa3a45a873e31300688e0d573cf6a784</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_2098710873631300688e0d573cf6a7d7^id=93cb8ebb974ea650d078f62de053af68"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</application>
+        <file_path/>
+        <instance_id>c5fef5a63b992a9016e44a8aa4e45af0</instance_id>
+        <instance_name>dev347112</instance_name>
+        <name>sys_atf_step_93cb8ebb974ea650d078f62de053af68</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><callable_outputs/><copied_from/><description>Open 'New Employee Computer Application ' catalog item &amp; include this item.</description><display_name>Review Item in Order Guide (SP)</display_name><inputs/><mugshots_cache_json/><notes/><order>5</order><step_config display_value="Review Item in Order Guide (SP)">2098710873631300688e0d573cf6a7d7</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-17 08:43:47</sys_created_on><sys_id>93cb8ebb974ea650d078f62de053af68</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Review Item in Order Guide (SP)</sys_name><sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package><sys_policy/><sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope><sys_update_name>sys_atf_step_93cb8ebb974ea650d078f62de053af68</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-17 08:43:47</sys_updated_on><table/><test display_value="Practice1 Apply PC Approved">2d6ded7397caa650d078f62de053af8d</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=93cb8ebb974ea650d078f62de053af68"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>93cb8ebb974ea650d078f62de053af68</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-17 08:43:48</sys_created_on><sys_id>22db0afb974ea650d078f62de053af6a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-17 08:43:48</sys_updated_on><value>8265c46f97612210d078f62de053afc6</value><variable display_value="Catalog Item">ff05052873e31300688e0d573cf6a7ed</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>93cb8ebb974ea650d078f62de053af68</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-17 08:43:48</sys_created_on><sys_id>e2db0afb974ea650d078f62de053af6a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-17 08:43:48</sys_updated_on><value>1</value><variable display_value="Included">aa3a45a873e31300688e0d573cf6a784</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_2098710873631300688e0d573cf6a7d7^id=93cb8ebb974ea650d078f62de053af68"/></record_update>]]></payload>
+        <payload_hash>-1417950401</payload_hash>
+        <record_name>Review Item in Order Guide (SP)</record_name>
+        <reverted_from/>
+        <source>852accae97a1e250d078f62de053af6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-17 08:43:48</sys_created_on>
+        <sys_id>2edb0afb974ea650d078f62de053af6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1977d0f0e050000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-17 08:43:48</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>22db0afbc14ea650d86f2bb9d9acb06c</update_guid>
+        <update_guid_history>22db0afbc14ea650d86f2bb9d9acb06c:-1417950401</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-17 08:44:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>724a2124d08342fca5f5c8fac7782f84</sys_id>
+        <sys_metadata>93cb8ebb974ea650d078f62de053af68</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Review Item in Order Guide (SP)</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_scope_delete display_value="">167574d6f821482690a8c00e458e1ea4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_93cb8ebb974ea650d078f62de053af68</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_93cb8ebb974ea650d078f62de053af68">2edb0afb974ea650d078f62de053af6c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-17 08:44:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

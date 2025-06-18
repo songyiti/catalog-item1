@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <callable_outputs/>
+        <copied_from/>
+        <description>Submit an order guide and confirm that ordering is successful</description>
+        <display_name>Submit an Order Guide (SP)</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>5</order>
+        <step_config display_value="Submit an Order Guide (SP)">6ad01e9387131300b179480688cb0b8f</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-17 08:24:49</sys_created_on>
+        <sys_id>4e770a37974ea650d078f62de053af0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit an Order Guide (SP)</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_update_name>sys_atf_step_4e770a37974ea650d078f62de053af0d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-17 08:24:49</sys_updated_on>
+        <table/>
+        <test display_value="Practice1 Apply PC Approved">2d6ded7397caa650d078f62de053af8d</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=4e770a37974ea650d078f62de053af0d"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>4e770a37974ea650d078f62de053af0d</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-17 08:24:49</sys_created_on>
+        <sys_id>ec878e77974ea650d078f62de053af23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-17 08:24:49</sys_updated_on>
+        <value>form_submitted_to_server</value>
+        <variable display_value="Assert Type">5befded787131300b179480688cb0bf4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_6ad01e9387131300b179480688cb0b8f^id=4e770a37974ea650d078f62de053af0d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</application>
+        <file_path/>
+        <instance_id>c5fef5a63b992a9016e44a8aa4e45af0</instance_id>
+        <instance_name>dev347112</instance_name>
+        <name>sys_atf_step_4e770a37974ea650d078f62de053af0d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><callable_outputs/><copied_from/><description>Submit an order guide and confirm that ordering is successful</description><display_name>Submit an Order Guide (SP)</display_name><inputs/><mugshots_cache_json/><notes/><order>5</order><step_config display_value="Submit an Order Guide (SP)">6ad01e9387131300b179480688cb0b8f</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-17 08:24:49</sys_created_on><sys_id>4e770a37974ea650d078f62de053af0d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Submit an Order Guide (SP)</sys_name><sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package><sys_policy/><sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope><sys_update_name>sys_atf_step_4e770a37974ea650d078f62de053af0d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-17 08:24:49</sys_updated_on><table/><test display_value="Practice1 Apply PC Approved">2d6ded7397caa650d078f62de053af8d</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=4e770a37974ea650d078f62de053af0d"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>4e770a37974ea650d078f62de053af0d</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-17 08:24:49</sys_created_on><sys_id>ec878e77974ea650d078f62de053af23</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-17 08:24:49</sys_updated_on><value>form_submitted_to_server</value><variable display_value="Assert Type">5befded787131300b179480688cb0bf4</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_6ad01e9387131300b179480688cb0b8f^id=4e770a37974ea650d078f62de053af0d"/></record_update>]]></payload>
+        <payload_hash>-990678947</payload_hash>
+        <record_name>Submit an Order Guide (SP)</record_name>
+        <reverted_from/>
+        <source>852accae97a1e250d078f62de053af6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-17 08:24:49</sys_created_on>
+        <sys_id>e4878e77974ea650d078f62de053af26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1977cfdaed60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-17 08:24:49</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>e8878e77f04ea6507039549343a7cf25</update_guid>
+        <update_guid_history>e8878e77f04ea6507039549343a7cf25:-990678947</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-17 08:35:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>0f05b1f6a1144a98b7ea0fb4bbb23e71</sys_id>
+        <sys_metadata>4e770a37974ea650d078f62de053af0d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit an Order Guide (SP)</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_scope_delete display_value="">167574d6f821482690a8c00e458e1ea4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_4e770a37974ea650d078f62de053af0d</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_4e770a37974ea650d078f62de053af0d">e4878e77974ea650d078f62de053af26</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-17 08:35:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
