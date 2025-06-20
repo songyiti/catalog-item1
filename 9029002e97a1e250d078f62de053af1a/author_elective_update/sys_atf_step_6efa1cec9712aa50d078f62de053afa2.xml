@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <callable_outputs/>
+        <copied_from display_value="Impersonate">a82c3ec897562a50d078f62de053aff4</copied_from>
+        <description>Impersonate the user: PEM practice1 with user Id: practice1_PEM
+
+Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</description>
+        <display_name>Impersonate</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 08:26:05</sys_created_on>
+        <sys_id>6efa1cec9712aa50d078f62de053afa2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Impersonate</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_update_name>sys_atf_step_6efa1cec9712aa50d078f62de053afa2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 08:26:05</sys_updated_on>
+        <table/>
+        <test display_value="Practice1 Flow-Approval copy">6efa186c9712aa50d078f62de053af78</test>
+        <timeout/>
+        <warning_message>Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</warning_message>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=6efa1cec9712aa50d078f62de053afa2"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>6efa1cec9712aa50d078f62de053afa2</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 08:26:05</sys_created_on>
+        <sys_id>6afa1cec9712aa50d078f62de053afa3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 08:26:05</sys_updated_on>
+        <value>22aa657f978aa650d078f62de053aff1</value>
+        <variable display_value="User">586e2c4253e0220002c6435723dc3415</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_071ee5b253331200040729cac2dc348d^id=6efa1cec9712aa50d078f62de053afa2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</application>
+        <file_path/>
+        <instance_id>c5fef5a63b992a9016e44a8aa4e45af0</instance_id>
+        <instance_name>dev347112</instance_name>
+        <name>sys_atf_step_6efa1cec9712aa50d078f62de053afa2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><callable_outputs/><copied_from display_value="Impersonate">a82c3ec897562a50d078f62de053aff4</copied_from><description>Impersonate the user: PEM practice1 with user Id: practice1_PEM
+
+Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</description><display_name>Impersonate</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-19 08:26:05</sys_created_on><sys_id>6efa1cec9712aa50d078f62de053afa2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Impersonate</sys_name><sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package><sys_policy/><sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope><sys_update_name>sys_atf_step_6efa1cec9712aa50d078f62de053afa2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-19 08:26:05</sys_updated_on><table/><test display_value="Practice1 Flow-Approval copy">6efa186c9712aa50d078f62de053af78</test><timeout/><warning_message>Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</warning_message></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=6efa1cec9712aa50d078f62de053afa2"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>6efa1cec9712aa50d078f62de053afa2</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-19 08:26:05</sys_created_on><sys_id>6afa1cec9712aa50d078f62de053afa3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-19 08:26:05</sys_updated_on><value>22aa657f978aa650d078f62de053aff1</value><variable display_value="User">586e2c4253e0220002c6435723dc3415</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_071ee5b253331200040729cac2dc348d^id=6efa1cec9712aa50d078f62de053afa2"/></record_update>]]></payload>
+        <payload_hash>-2084928692</payload_hash>
+        <record_name>Impersonate</record_name>
+        <reverted_from/>
+        <source>852accae97a1e250d078f62de053af6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 08:26:05</sys_created_on>
+        <sys_id>a6fa1cec9712aa50d078f62de053afa6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197874b90fb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 08:26:05</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>aafa1cec0d12aa50ace6b05f55f618a5</update_guid>
+        <update_guid_history>aafa1cec0d12aa50ace6b05f55f618a5:-2084928692</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 08:26:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>0717da0959994330af5082bce2ac1510</sys_id>
+        <sys_metadata>6efa1cec9712aa50d078f62de053afa2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Impersonate</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_scope_delete display_value="">167574d6f821482690a8c00e458e1ea4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_6efa1cec9712aa50d078f62de053afa2</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_6efa1cec9712aa50d078f62de053afa2">a6fa1cec9712aa50d078f62de053afa6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 08:26:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>true</fail_on_server_error>
+        <name>Practice1 Flow-Rejected</name>
+        <parameters/>
+        <remember/>
+        <sn_atf_tg_generated>false</sn_atf_tg_generated>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 07:27:48</sys_created_on>
+        <sys_id>a149402897de6a50d078f62de053af90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Practice1 Flow-Rejected</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_update_name>sys_atf_test_a149402897de6a50d078f62de053af90</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 07:27:48</sys_updated_on>
+        <test_origin>manual</test_origin>
+    </sys_atf_test>
+    <sys_variable_value action="DELETE" query="document_key=a149402897de6a50d078f62de053af90"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</application>
+        <file_path/>
+        <instance_id>c5fef5a63b992a9016e44a8aa4e45af0</instance_id>
+        <instance_name>dev347112</instance_name>
+        <name>sys_atf_test_a149402897de6a50d078f62de053af90</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description/><enable_parameterized_testing>false</enable_parameterized_testing><fail_on_server_error>true</fail_on_server_error><name>Practice1 Flow-Rejected</name><parameters/><remember/><sn_atf_tg_generated>false</sn_atf_tg_generated><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-19 07:27:48</sys_created_on><sys_id>a149402897de6a50d078f62de053af90</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Practice1 Flow-Rejected</sys_name><sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package><sys_policy/><sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope><sys_update_name>sys_atf_test_a149402897de6a50d078f62de053af90</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-19 07:27:48</sys_updated_on><test_origin>manual</test_origin></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=a149402897de6a50d078f62de053af90"/></record_update>]]></payload>
+        <payload_hash>-1568169357</payload_hash>
+        <record_name>Practice1 Flow-Rejected</record_name>
+        <reverted_from/>
+        <source>852accae97a1e250d078f62de053af6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 07:27:48</sys_created_on>
+        <sys_id>78ad40ec97de6a50d078f62de053af9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197871632170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 07:27:48</sys_updated_on>
+        <type>Test</type>
+        <update_guid>7cad40ec0cde6a5018d88453d8589a9e</update_guid>
+        <update_guid_history>7cad40ec0cde6a5018d88453d8589a9e:-1568169357</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 08:29:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test">sys_atf_test</sys_db_object>
+        <sys_id>05ac6bc503134fa68ed5c1903d7d79a1</sys_id>
+        <sys_metadata>a149402897de6a50d078f62de053af90</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Practice1 Flow-Rejected</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_scope_delete display_value="">167574d6f821482690a8c00e458e1ea4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_a149402897de6a50d078f62de053af90</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_a149402897de6a50d078f62de053af90">78ad40ec97de6a50d078f62de053af9f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 08:29:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

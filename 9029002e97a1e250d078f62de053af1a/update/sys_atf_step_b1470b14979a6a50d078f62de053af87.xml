@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <callable_outputs/>
+        <copied_from/>
+        <description>Validate that an email was generated matching query:
+Subject starts with Notice of Approval for Computer Application
+and Created on Last minute
+and To = {{Step 1: Impersonate.User.Email}}
+With a failure timeout of 30 Seconds</description>
+        <display_name>Validate Outbound Email</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>11</order>
+        <step_config display_value="Validate Outbound Email">32911152c3833300eaac11fe81d3ae82</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 02:24:57</sys_created_on>
+        <sys_id>b1470b14979a6a50d078f62de053af87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Validate Outbound Email</sys_name>
+        <sys_package display_value="Catalog Item-1" source="x_1755921_catalog">9029002e97a1e250d078f62de053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1">9029002e97a1e250d078f62de053af1a</sys_scope>
+        <sys_update_name>sys_atf_step_b1470b14979a6a50d078f62de053af87</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 02:24:57</sys_updated_on>
+        <table/>
+        <test display_value="Practice1 Flow-Approval">6389fe0497562a50d078f62de053afd6</test>
+        <timeout>1970-01-01 00:00:30</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=b1470b14979a6a50d078f62de053af87"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b1470b14979a6a50d078f62de053af87</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 02:24:57</sys_created_on>
+        <sys_id>a458cb94979a6a50d078f62de053afcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 02:24:57</sys_updated_on>
+        <value>sys_email</value>
+        <variable display_value="Table">80625552c3833300eaac11fe81d3aedc</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b1470b14979a6a50d078f62de053af87</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 02:24:57</sys_created_on>
+        <sys_id>e058cb94979a6a50d078f62de053afcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 02:24:57</sys_updated_on>
+        <value>stateANYTHING^recipientsANYTHING^user_idANYTHING^subjectANYTHING^bodyANYTHING^headersANYTHING^EQ</value>
+        <variable display_value="conditions">7d821952c3833300eaac11fe81d3ae2e</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=b1470b14979a6a50d078f62de053af87"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>b1470b14979a6a50d078f62de053af87</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 02:24:57</sys_created_on>
+        <sys_id>ac58cb94979a6a50d078f62de053afca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 02:24:57</sys_updated_on>
+        <table>var__m_atf_input_variable_32911152c3833300eaac11fe81d3ae82</table>
+        <value>subjectSTARTSWITHNotice of Approval for Computer Application^sys_created_onONLast minute@javascript:gs.beginningOfLastMinute()@javascript:gs.endOfLastMinute()^direct={{step['a82c3ec897562a50d078f62de053aff4'].user.email}}^EQ</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>b1470b14979a6a50d078f62de053af87</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 02:24:57</sys_created_on>
+        <sys_id>6058cb94979a6a50d078f62de053afcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 02:24:57</sys_updated_on>
+        <table>var__m_atf_input_variable_32911152c3833300eaac11fe81d3ae82</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>
